@@ -1,0 +1,80 @@
+.left-bar {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  position: absolute;
+  background: linear-gradient(180deg, #02a1fc 0%, #079bfc 98.44%);
+  width: 4.3%;
+  height: 177%;
+  left: 0px;
+  top: 0px;
+}
+.path8 {
+  position: absolute;
+  width: 70%;
+
+  /* border: 1px solid white; */
+}
+.top {
+  /* Upper Bar */
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 1%;
+  bottom: 94.4%;
+
+  background: linear-gradient(180deg, #02a1fc 0%, #079bfc 98.44%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.lower-bar {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 5.8%;
+  bottom: 0%;
+
+  /* Linear Loopstr */
+
+  background: linear-gradient(180deg, #02a1fc 0%, #433cf8 98.44%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.home1 {
+  position: absolute;
+  left: 21.67%;
+  right: 21.67%;
+  top: 2.31%;
+  width: 50%;
+}
+.account {
+  position: absolute;
+
+  top: 8.31%;
+  left: 21.67%;
+  right: 21.67%;
+  width: 50%;
+}
+.alert {
+  position: absolute;
+
+  top: 14.09%;
+
+  left: 21.67%;
+  right: 21.67%;
+  width: 50%;
+}
+.setting {
+  position: absolute;
+
+  left: 21.67%;
+  right: 21.67%;
+  width: 50%;
+  top: 20.13%;
+}

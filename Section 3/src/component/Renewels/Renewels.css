@@ -1,0 +1,8 @@
+.renew {
+  position: absolute;
+  top: 130px;
+  left: 240px;
+  z-index: -1;
+  width: 100%;
+  height: auto;
+}
